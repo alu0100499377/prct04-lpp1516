@@ -1,0 +1,1 @@
+¿que es RVM? Es un gestor de interpretes de ruby.
