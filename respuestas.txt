@@ -1,1 +1,7 @@
 ¿que es RVM? Es un gestor de interpretes de ruby.
+
+¿Diferencia entre ejecucion de programa con interprete y el interprete interactivo?
+    Que el interprete devuelve nil despues de interpretar la cadena
+    miestras que al ejecutarlo desde el archivo retorna la ultima linea
+    de dicho fichero (en este caso la cadena)
+    
