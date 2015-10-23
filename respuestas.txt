@@ -5,3 +5,6 @@
     miestras que al ejecutarlo desde el archivo retorna la ultima linea
     de dicho fichero (en este caso la cadena)
     
+    
+(41) Que con pry se permite interactuar con el codigo.
+    
